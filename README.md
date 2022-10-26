@@ -7,7 +7,7 @@ SQLAlchemy
 Flask-SQLAlchemy
 Marshmallow-sqlalchemy
 Flask-Marshmallow
-
+mysqlclient
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 PROBLEMAS NA INSTALAÇÃO DO FLASK NO PYCHARM
