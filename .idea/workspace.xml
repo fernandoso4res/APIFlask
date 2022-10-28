@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0690acb6-0930-42ca-80e3-7d3e0ff028c9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/api/entidades/professor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/APIFlask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/APIFlask.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/models/formacao_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/models/formacao_model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Activate.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/activate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/activate.csh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/activate.fish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/easy_install" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/easy_install-3.8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/pip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/pip3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/pip3.8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/python" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/python3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/alembic.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/env.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/script.py.mako" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/versions/7044e27acd83_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/migrations/versions/b3fc5be6ae1d_.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
